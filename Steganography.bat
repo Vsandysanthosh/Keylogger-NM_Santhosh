@@ -1,0 +1,1 @@
+copy /b Peter.jpg+Stegnography_Message.txt Newimage.jpg
